@@ -1,0 +1,31 @@
+# Virtual environment
+myvenv/
+venv/
+
+# Dataset (if large or sensitive)
+dataset/
+
+# Model weights
+*.pt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output directories
+runs/
+video/
+
+# Image files (if not needed in repo)
+*.png
+*.jpg
+*.jpeg
+
+# System files
+desktop.ini
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
