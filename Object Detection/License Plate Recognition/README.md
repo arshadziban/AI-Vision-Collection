@@ -12,7 +12,8 @@ This project demonstrates license plate recognition using the YOLO11 model, trai
 
 ## Example Output
 
-Original Image: `image.png`
+Original Image: 
+![Detected License Plate](image.jpg)
 
 Detected Image:
 
