@@ -1,6 +1,6 @@
 # License Plate Recognition using YOLO11
 
-This project demonstrates license plate recognition using the YOLO11 model, trained with the Ultralytics YOLO library. The model is trained on a dataset and used for detecting license plates in images.
+This project demonstrates license plate recognition using the YOLO11 model, trained with the Ultralytics YOLO library. The model is trained on a dataset and used for detecting license plates in images and videos
 
 ## Features
 - Uses YOLO11 for license plate detection
