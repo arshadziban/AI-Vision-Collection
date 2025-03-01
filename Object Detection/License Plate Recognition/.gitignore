@@ -16,8 +16,6 @@ runs/
 video/
 
 # Image files (if not needed in repo)
-*.png
-*.jpg
 *.jpeg
 
 # System files
